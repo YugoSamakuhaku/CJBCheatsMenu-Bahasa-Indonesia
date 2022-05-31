@@ -2,7 +2,7 @@
 
 > Terjemahan Bahasa Indonesia untuk [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4)
 
-blm
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/YugoSamakuhaku/CJBCheatsMenu-Bahasa-Indonesia?label=Versi%20Terbaru&style=plastic) ![GitHub](https://img.shields.io/github/license/YugoSamakuhaku/CJBCheatsMenu-Bahasa-Indonesia?label=license&style=plastic)
 <img src="https://github.com/YugoSamakuhaku/CJBCheatsMenu-Bahasa-Indonesia/blob/8f6797f292be65bb339053588ca4faa72ebd450f/images/CJBCheatsMenu-Settings-player.png" />
 <img src="https://github.com/YugoSamakuhaku/CJBCheatsMenu-Bahasa-Indonesia/blob/8f6797f292be65bb339053588ca4faa72ebd450f/images/CJBCheatsMenu-Settings-Time.png" />
 <img src="https://github.com/YugoSamakuhaku/CJBCheatsMenu-Bahasa-Indonesia/blob/8f6797f292be65bb339053588ca4faa72ebd450f/images/CJBCheatsMenu-Settings-Skills.png" />
