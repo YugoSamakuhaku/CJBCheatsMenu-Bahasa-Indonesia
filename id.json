@@ -1,0 +1,249 @@
+﻿{
+    /*********
+    ** Main translations
+    *********/
+    // mod name shown in the menu
+    "mod-name": "CJB Cheats Menu",
+
+    // tab names
+    "tabs.player-and-tools": "Pemain & Alat",
+    "tabs.farm-and-fishing": "Pertanian & Memancing",
+    "tabs.skills": "Keterampilan",
+    "tabs.weather": "Cuaca",
+    "tabs.relationships": "Hubungan",
+    "tabs.warp": "Teleport Lokasi",
+    "tabs.time": "Waktu",
+    "tabs.advanced": "Lebih Lanjut",
+    "tabs.controls": "Kontrol",
+
+
+    /*********
+    ** Player & Tools tab
+    *********/
+    // player
+    "player.title": "Pemain",
+    "player.infinite-stamina": "Stamina Tidak Terbatas",
+    "player.infinite-health": "Nyawa Tidak Terbatas",
+    "player.instant-cooldowns": "Alat tanpa cooldown",
+    "player.inventory-size": "Kapasitas Inventory",
+    "player.movement-speed": "Kecepatan Bergerak",
+    "player.movement-speed.default": "Normal",
+    "player.one-hit-kill": "Sekali Pukul ke Monster",
+    "player.max-daily-luck": "Keberuntungan Maksimal",
+
+    // tools
+    "tools.title": "Peralatan",
+    "tools.infinite-water": "Penyiram Air Tidak Terbatas",
+    "tools.one-hit-break": "Sekali Pukul, Hancur",
+    "tools.harvest-with-scythe": "Memanen dengan Sabit",
+
+    // money
+    "add.money": "Uang",
+    "add.casino-coins": "Koin Kasino",
+    "add.golden-walnuts": "Kacang Emas",
+    "add.qi-gems": "Qi Gems",
+    "add.amount-gold": "Tambah {{amount}}g",
+    "add.amount-other": "Tambah {{amount}}",
+
+
+    /*********
+    ** Farm & Fishing tab
+    *********/
+    // farm
+    "farm.title": "Pertanian",
+    "farm.auto-water": "Menyiram Air Otomatis",
+    "farm.durable-fences": "Pagar Tidak Rusak",
+    "farm.instant-build": "Pembangunan Instan",
+    "farm.auto-feed-animals": "Beri Makanan Hewan Otomatis",
+    "farm.auto-pet-animals": "Interaksi Hewan Otomatis",
+    "farm.auto-pet-pets": "Interaksi Peliharaan Otomatis",
+    "farm.infinite-hay": "Jerami Tidak Terbatas",
+
+    // fishing
+    "fishing.title": "Memancing",
+    "fishing.instant-catch": "Tangkap Instan",
+    "fishing.instant-bite": "Umpan Instan",
+    "fishing.always-throw-max-distance": "Selalu Lempar Maksimal",
+    "fishing.always-treasure": "Selalu dapat Harga Karun",
+    "fishing.durable-tackles": "Peralatan Pancing Tahan Lama",
+
+    // fast machines
+    "fast-machines.title": "Percepat Proses Mesin",
+    "fast-machines.fruit-trees": "Pohon Buah",
+    "fast-machines.ready-in-the-morning": "{{machineName}} (siap dipagi hari)",
+
+
+    /*********
+    ** Skills tab
+    *********/
+    // skills
+    "skills.title": "Keterampilan",
+    "skills.increase-farming": "Meningkatkan Bertani Lvl: {{currentLevel}}",
+    "skills.increase-mining": "Meningkatkan Menambang Lvl: {{currentLevel}}",
+    "skills.increase-foraging": "Meningkatkan Berternak Lvl: {{currentLevel}}",
+    "skills.increase-fishing": "Meningkatkan Memancing Lvl: {{currentLevel}}",
+    "skills.increase-combat": "Meningkatkan Bertarung Lvl: {{currentLevel}}",
+    "skills.reset": "Reset Keterampilan!",
+
+    // professions
+    "professions.title": "Keterampilan",
+    "professions.combat.fighter": "Bertarung lvl 5 - Petarung",
+    "professions.combat.scout": "Bertarung lvl 5 - Pengintai",
+    "professions.combat.acrobat": "Bertarung lvl 10 - Akrobat [Pengintai]",
+    "professions.combat.brute": "Bertarung lvl 10 - Buas [Petarung]",
+    "professions.combat.defender": "Bertarung lvl 10 - Bertahan [Petarung]",
+    "professions.combat.desperado": "Bertarung lvl 10 - Bandit [Pengintai]",
+
+    "professions.farming.rancher": "Bertani lvl 5 - Peternak",
+    "professions.farming.tiller": "Bertani lvl 5 - Pembajak",
+    "professions.farming.agriculturist": "Bertani lvl 10 - Agronom [Pembajak]",
+    "professions.farming.artisan": "Bertani lvl 10 - Pengerajin [Pembajak]",
+    "professions.farming.coopmaster": "Bertani lvl 10 - Ahli Unggas [Peternak]",
+    "professions.farming.shepherd": "Bertani lvl 10 - Gembala [Peternak]",
+
+    "professions.fishing.fisher": "Memancing lvl 5 - Nelayan",
+    "professions.fishing.trapper": "Memancing lvl 5 - Penjebak",
+    "professions.fishing.angler": "Memancing lvl 10 - Pemancing [Nelayan]",
+    "professions.fishing.luremaster": "Memancing lvl 10 - Ahli Jebakan [Penjebak]",
+    "professions.fishing.mariner": "Memancing lvl 10 - Pelaut [Penjebak]",
+    "professions.fishing.pirate": "Memancing lvl 10 - Bajak Laut [Nelayan]",
+
+    "professions.foraging.forester": "Berternak lvl 5 - Rimbawan",
+    "professions.foraging.gatherer": "Berternak lvl 5 - Pengumpul",
+    "professions.foraging.botanist": "Berternak lvl 10 - Botanis [Pengumpul]",
+    "professions.foraging.lumberjack": "Berternak lvl 10 - Penembang [Rimbawan]",
+    "professions.foraging.tapper": "Berternak lvl 10 - Penyadap [Rimbawan]",
+    "professions.foraging.tracker": "Berternak lvl 10 - Pelacak [Pengumpul]",
+
+    "professions.mining.geologist": "Menambang lvl 5 - Geolog",
+    "professions.mining.miner": "Menambang lvl 5 - Penambang",
+    "professions.mining.blacksmith": "Menambang lvl 10 - Pandai Besi [Penambang]",
+    "professions.mining.excavator": "Menambang lvl 10 - Eksavator [Geolog]",
+    "professions.mining.gemologist": "Menambang lvl 10 - Geomolog [Geolog]",
+    "professions.mining.prospector": "Menambang lvl 10 - Prospektor [Penambang]",
+
+
+    /*********
+    ** Weather tab
+    *********/
+    "weather.title": "Cuaca Besok",
+    "weather.current": "Besok akan",
+    "weather.sunny": "Cerah",
+    "weather.raining": "Hujan",
+    "weather.lightning": "Badai Petir",
+    "weather.snowing": "Bersalju",
+
+
+    /*********
+    ** Relationships tab
+    *********/
+    "relationships.title": "Hubungan",
+    "relationships.give-gifts-anytime": "Berikan Hadiah Kapan Saja",
+    "relationships.no-decay": "Pertemanan Tidak Akan Berkurang",
+    "relationships.friends": "Teman",
+
+
+    /*********
+    ** Warps tab
+    *********/
+    // main areas
+    "warp-section.main": "Lokasi Utama",
+    "warp.farm": "Kebun",
+    "warp.carpenter": "Rumah Tukang Kayu",
+    "warp.desert": "Gurun",
+    "warp.mines": "Tambang",
+    "warp.pierre-shop": "Toko Pierre's",
+
+    // town
+    "warp-section.town": "Balai Kota",
+    "warp.blacksmith": "Toko Pandai Besi",
+    "warp.community-center": "Balai Kota",
+    "warp.jojamart": "JojaMart",
+    "warp.movie-theater": "Bioskop Teater",
+    "warp.museum": "Museum",
+    "warp.saloon": "Saloon",
+    "warp.sewer": "Saluran Irigasi",
+
+    // forest
+    "warp-section.forest": "Hutan",
+    "warp.hats": "Rumah Terabaikan",
+    "warp.ranch": "Perternakan Marnie's",
+    "warp.secret-woods": "Hutan Rahasia",
+    "warp.wizard-tower": "Menara Penyihir",
+
+    // mountain
+    "warp-section.mountain": "Gunung",
+    "warp.adventurers-guild": "Adventurer's Guild",
+    "warp.bathhouse": "Pemandian Air Panas",
+    "warp.mutant-bug-lair": "Sarang Serangga Mutan",
+    "warp.quarry": "Tambang Quarry",
+    "warp.witch-swamp": "Rawa Penyihir",
+
+    // beach
+    "warp-section.beach": "Pantai",
+    "warp.tide-pools": "Pantai Pasang Surut",
+    "warp.willy-shop": "Toko Ikan",
+
+    // island
+    "warp-section.island": "Pulau Ginger",
+    "warp.forge": "Lokasi Penempa",
+    "warp.island-farm": "Pulau Bertani",
+    "warp.dwarf-shop": "Toko Dwarf Gunung Berapi",
+    "warp.field-office": "Kantor/Tenda Lapangan",
+    "warp.leo-house": "Rumah Leo's",
+
+    // desert
+    "warp-section.desert": "Gurun",
+    "warp.casino": "Kasino",
+    "warp.sandy-shop": "Toko Sandy's",
+    "warp.skull-cavern": "Gua Tengkorak",
+
+
+    /*********
+    ** Time tab
+    *********/
+    // time
+    "time.title": "Waktu",
+    "time.freeze-inside": "Hentikan Waktu di Ruangan",
+    "time.freeze-caves": "Hentikan Waktu di Gua",
+    "time.freeze-everywhere": "Hentikan Waktu Dimanapun",
+    "time.time": "Waktu",
+    "time.time-frozen-message": "Waktu Dihentikan",
+
+    // date
+    "date.title": "Tanggal",
+    "date.warning": "Beberapa hal tidak dapat diperbarui hingga malam berlalu/tidur.",
+    "date.year": "Tahun",
+    "date.season": "Musim",
+    "date.day": "hari",
+
+
+    /*********
+    ** Advanced tab
+    *********/
+    "flags.warning": "Gunakan fitur ini dengan resiko anda sendiri!\nhal ini dapat menyebabkan masalah seperti:\nsurat, acara, atau misi yang terlewati.",
+    "flags.quests": "Selesaikan Misi",
+    "flags.wallet": "Barang di Dompet",
+    "flags.unlocked": "Lokasi yang Terbuka",
+    "flags.unlocked.guild": "Adventurer's Guild",
+    "flags.unlocked.room": "Ruangan: {{name}}",
+    "flags.unlocked-content": "Konten yang Terbuka",
+    "flags.unlocked-content.dyes-and-tailoring": "Pewarna & menjahit",
+    "flags.community-center": "Balai Kota",
+    "flags.community-center.door-unlocked": "Pintu Terbuka",
+    "flags.jojamart.membership": "JojaMart Membership",
+
+
+    /*********
+    ** Controls tab
+    *********/
+    "controls.title": "Kontrol",
+    "controls.android-config-note": "Pemain dapat mengubah tombol di layar dalam file konfigurasi untuk menu [CJB Cheats Menu] dan pengaturan keyboard untuk Mod.",
+    "controls.open-menu": "Buka Menu",
+    "controls.freeze-time": "Hentikan Waktu",
+    "controls.grow-tree": "Tumbuhkan Pohon",
+    "controls.grow-crops": "Tumbuhkan Tanaman",
+    "controls.grow-radius": "Radius Pemain\nTumbuhkan Tanaman/Pohon ",
+    "controls.reset-controls": "Reset",
+    "controls.press-new-key": "Tekan tombol baru..."
+}
