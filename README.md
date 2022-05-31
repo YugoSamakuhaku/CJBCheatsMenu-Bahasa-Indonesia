@@ -1,4 +1,4 @@
-# [CJB Cheats Menu - Bahasa Indonesia](github.com/YugoSamakuhaku/CJBCheatsMenu-Bahasa-Indonesia)
+# [CJB Cheats Menu - Bahasa Indonesia](https://github.com/YugoSamakuhaku/CJBCheatsMenu-Bahasa-Indonesia)
 
 > Terjemahan Bahasa Indonesia untuk [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4)
 
